@@ -561,10 +561,10 @@ promise@^7.1.1:
   dependencies:
     asap "~2.0.3"
 
-quasar@^1.6.1:
-  version "1.15.23"
-  resolved "https://registry.yarnpkg.com/quasar/-/quasar-1.15.23.tgz#51e6cd343b82734ee9669987a12e6c5b91bd913d"
-  integrity sha512-dAC39JQh1H441DL5f8cFa5Po4WB+Haz2E30RKMrh5bXmeiZoCGpll+RwtTW567J2tRIUzls2l9WzCDzLwx7s2Q==
+quasar@^2.1.5:
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/quasar/-/quasar-2.1.5.tgz#636bea9166630af62a93bd378ab29c62995b030c"
+  integrity sha512-eVov2A6cahQP1i//3VF5etN6L9HMinlNMAUY+wnwqiAv3ebsD/Zhefb93rsdjv4bUuPgD6rB0ym/YPF8G5Oq0g==
 
 regenerator-runtime@^0.12.0:
   version "0.12.1"
